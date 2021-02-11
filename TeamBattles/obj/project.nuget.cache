@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "LfeFdaObIa17j9KRkAzYbOauTQcfSPNQGjhEvE/HgrBVZ1484A3l54xu8o70BgKte17SQ8ipsXqo+lJaGJJvLQ==",
+  "success": true,
+  "projectFilePath": "/home/runner/TeamBattles/TeamBattles/TeamBattles.csproj",
+  "expectedPackageFiles": [
+    "/home/runner/.nuget/packages/htmlagilitypack/1.11.30/htmlagilitypack.1.11.30.nupkg.sha512",
+    "/home/runner/.nuget/packages/linqtotwitter/6.4.0/linqtotwitter.6.4.0.nupkg.sha512",
+    "/home/runner/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/home/runner/.nuget/packages/restsharp/106.11.7/restsharp.106.11.7.nupkg.sha512",
+    "/home/runner/.nuget/packages/system.text.json/5.0.1/system.text.json.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

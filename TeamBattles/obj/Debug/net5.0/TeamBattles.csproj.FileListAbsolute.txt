@@ -1,0 +1,16 @@
+/home/runner/TeamBattles/TeamBattles/bin/Debug/net5.0/TeamBattles
+/home/runner/TeamBattles/TeamBattles/bin/Debug/net5.0/TeamBattles.deps.json
+/home/runner/TeamBattles/TeamBattles/bin/Debug/net5.0/TeamBattles.runtimeconfig.json
+/home/runner/TeamBattles/TeamBattles/bin/Debug/net5.0/TeamBattles.runtimeconfig.dev.json
+/home/runner/TeamBattles/TeamBattles/bin/Debug/net5.0/TeamBattles.dll
+/home/runner/TeamBattles/TeamBattles/bin/Debug/net5.0/ref/TeamBattles.dll
+/home/runner/TeamBattles/TeamBattles/bin/Debug/net5.0/TeamBattles.pdb
+/home/runner/TeamBattles/TeamBattles/obj/Debug/net5.0/TeamBattles.csprojAssemblyReference.cache
+/home/runner/TeamBattles/TeamBattles/obj/Debug/net5.0/TeamBattles.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/TeamBattles/TeamBattles/obj/Debug/net5.0/TeamBattles.AssemblyInfoInputs.cache
+/home/runner/TeamBattles/TeamBattles/obj/Debug/net5.0/TeamBattles.AssemblyInfo.cs
+/home/runner/TeamBattles/TeamBattles/obj/Debug/net5.0/TeamBattles.csproj.CoreCompileInputs.cache
+/home/runner/TeamBattles/TeamBattles/obj/Debug/net5.0/TeamBattles.dll
+/home/runner/TeamBattles/TeamBattles/obj/Debug/net5.0/ref/TeamBattles.dll
+/home/runner/TeamBattles/TeamBattles/obj/Debug/net5.0/TeamBattles.pdb
+/home/runner/TeamBattles/TeamBattles/obj/Debug/net5.0/TeamBattles.genruntimeconfig.cache
