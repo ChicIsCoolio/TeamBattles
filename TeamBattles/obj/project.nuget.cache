@@ -1,16 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "IBcvSeRU/DVHZnUiOfzAKmmie5BOivzDtjgYlBRNi2JbBawOxP00VWlozZ2Y/Wkm3gxgLSsFx3qz6CDa0TJIvA==",
+  "dgSpecHash": "oolzgCZ6slNhoL9fWw6Rt7hm/G6L6I/6dXIjP3Q1cxyccuSevlimG3ewWIkEcBvy1WbA7oCWzIobugu8PO9kCw==",
   "success": true,
-  "projectFilePath": "/home/runner/TeamBattles/TeamBattles/TeamBattles.csproj",
+  "projectFilePath": "C:\\Users\\Hopík\\source\\repos\\TeamBattles\\TeamBattles\\TeamBattles.csproj",
   "expectedPackageFiles": [
-    "/home/runner/.nuget/packages/htmlagilitypack/1.11.30/htmlagilitypack.1.11.30.nupkg.sha512",
-    "/home/runner/.nuget/packages/linqtotwitter/6.4.0/linqtotwitter.6.4.0.nupkg.sha512",
-    "/home/runner/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
-    "/home/runner/.nuget/packages/restsharp/106.11.7/restsharp.106.11.7.nupkg.sha512",
-    "/home/runner/.nuget/packages/skiasharp/2.80.2/skiasharp.2.80.2.nupkg.sha512",
-    "/home/runner/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
-    "/home/runner/.nuget/packages/system.text.json/5.0.1/system.text.json.5.0.1.nupkg.sha512"
+    "C:\\Users\\Hopík\\.nuget\\packages\\htmlagilitypack\\1.11.30\\htmlagilitypack.1.11.30.nupkg.sha512",
+    "C:\\Users\\Hopík\\.nuget\\packages\\linqtotwitter\\6.4.0\\linqtotwitter.6.4.0.nupkg.sha512",
+    "C:\\Users\\Hopík\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Hopík\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512",
+    "C:\\Users\\Hopík\\.nuget\\packages\\skiasharp\\2.80.2\\skiasharp.2.80.2.nupkg.sha512",
+    "C:\\Users\\Hopík\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Hopík\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512",
+    "C:\\Users\\Hopík\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512"
   ],
   "logs": []
 }
