@@ -50,6 +50,10 @@
               "target": "Package",
               "version": "[106.11.7, )"
             },
+            "SkiaSharp": {
+              "target": "Package",
+              "version": "[2.80.2, )"
+            },
             "linqtotwitter": {
               "target": "Package",
               "version": "[6.4.0, )"

@@ -10,6 +10,7 @@
     <PackageReference Include="linqtotwitter" Version="6.4.0" />
     <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
     <PackageReference Include="RestSharp" Version="106.11.7" />
+    <PackageReference Include="SkiaSharp" Version="2.80.2" />
   </ItemGroup>
 
 </Project>
