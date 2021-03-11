@@ -1,17 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "oolzgCZ6slNhoL9fWw6Rt7hm/G6L6I/6dXIjP3Q1cxyccuSevlimG3ewWIkEcBvy1WbA7oCWzIobugu8PO9kCw==",
+  "dgSpecHash": "1Gt6VE+IME/47bIP/I1B3Yan5CITnoncS6036sB9+/2Eqq78lMdZHdrvSKA1sLT85yob3Qdl8t5nLvle55UBpg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hopík\\source\\repos\\TeamBattles\\TeamBattles\\TeamBattles.csproj",
+  "projectFilePath": "/home/runner/TeamBattles/TeamBattles/TeamBattles.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Hopík\\.nuget\\packages\\htmlagilitypack\\1.11.30\\htmlagilitypack.1.11.30.nupkg.sha512",
-    "C:\\Users\\Hopík\\.nuget\\packages\\linqtotwitter\\6.4.0\\linqtotwitter.6.4.0.nupkg.sha512",
-    "C:\\Users\\Hopík\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
-    "C:\\Users\\Hopík\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512",
-    "C:\\Users\\Hopík\\.nuget\\packages\\skiasharp\\2.80.2\\skiasharp.2.80.2.nupkg.sha512",
-    "C:\\Users\\Hopík\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
-    "C:\\Users\\Hopík\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512",
-    "C:\\Users\\Hopík\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512"
+    "/home/runner/.nuget/packages/htmlagilitypack/1.11.30/htmlagilitypack.1.11.30.nupkg.sha512",
+    "/home/runner/.nuget/packages/linqtotwitter/6.4.0/linqtotwitter.6.4.0.nupkg.sha512",
+    "/home/runner/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/home/runner/.nuget/packages/restsharp/106.11.7/restsharp.106.11.7.nupkg.sha512",
+    "/home/runner/.nuget/packages/skiasharp/2.80.2/skiasharp.2.80.2.nupkg.sha512",
+    "/home/runner/.nuget/packages/skiasharp.nativeassets.linux/2.80.2/skiasharp.nativeassets.linux.2.80.2.nupkg.sha512",
+    "/home/runner/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/home/runner/.nuget/packages/system.reactive/5.0.0/system.reactive.5.0.0.nupkg.sha512",
+    "/home/runner/.nuget/packages/system.text.json/5.0.1/system.text.json.5.0.1.nupkg.sha512"
   ],
   "logs": []
 }

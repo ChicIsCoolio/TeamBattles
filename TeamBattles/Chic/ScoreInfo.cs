@@ -35,8 +35,6 @@ namespace TeamBattles.Chic
         public string State;
         [JsonProperty("dayIndex")]
         public int DayIndex;
-        [JsonProperty("nextDate")]
-        public DateTime NextDate;
     }
 
     public struct Team

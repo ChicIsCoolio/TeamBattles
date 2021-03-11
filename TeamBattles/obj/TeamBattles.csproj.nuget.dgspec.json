@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hopík\\source\\repos\\TeamBattles\\TeamBattles\\TeamBattles.csproj": {}
+    "/home/runner/TeamBattles/TeamBattles/TeamBattles.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hopík\\source\\repos\\TeamBattles\\TeamBattles\\TeamBattles.csproj": {
+    "/home/runner/TeamBattles/TeamBattles/TeamBattles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hopík\\source\\repos\\TeamBattles\\TeamBattles\\TeamBattles.csproj",
+        "projectUniqueName": "/home/runner/TeamBattles/TeamBattles/TeamBattles.csproj",
         "projectName": "TeamBattles",
-        "projectPath": "C:\\Users\\Hopík\\source\\repos\\TeamBattles\\TeamBattles\\TeamBattles.csproj",
-        "packagesPath": "C:\\Users\\Hopík\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hopík\\source\\repos\\TeamBattles\\TeamBattles\\obj\\",
+        "projectPath": "/home/runner/TeamBattles/TeamBattles/TeamBattles.csproj",
+        "packagesPath": "/home/runner/.nuget/packages/",
+        "outputPath": "/home/runner/TeamBattles/TeamBattles/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Hopík\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/home/runner/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,6 +54,10 @@
               "target": "Package",
               "version": "[2.80.2, )"
             },
+            "SkiaSharp.NativeAssets.Linux": {
+              "target": "Package",
+              "version": "[2.80.2, )"
+            },
             "System.Reactive": {
               "target": "Package",
               "version": "[5.0.0, )"
@@ -84,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/runner/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -26,14 +26,15 @@ namespace TeamBattles
             Process.Start("node", $"{Root}Server/index.js");
 
             var now = DateTimeOffset.UtcNow;
-            var date = new DateTime(now.Year, now.Month, now.Day, now.Hour, 0, 0);
+            var date = new DateTime(now.Year, now.Month, now.Day, now.Hour, 0, 0).AddHours(1);
 
             Console.WriteLine($"Info will send at {date}");
 
             Scheduler.Default.Schedule(date, reschedule =>
             {
                 DrawInfo();
-                reschedule(date.AddHours(1));
+                //reschedule(date = date.AddHours(2));
+                //Console.WriteLine($"Next info will send at {date}");
             });
 
             DoCommand(Console.ReadLine());
@@ -253,7 +254,7 @@ namespace TeamBattles
                 }
             }
 
-            TwitterManager.TweetWithMedia($"{Root}Output/output.png", "Fortnite Hearts Wild Team Battles leaderboard update!");
+            TwitterManager.TweetWithMedia($"{Root}Output/output.png", "Fortnite Hearts Wild Team Battles results!\nIt's over guys. Woo");
 
             foreach (var file in Directory.GetFiles($"{Root}Cache").Where(x => x.Contains("region_")))
             {
